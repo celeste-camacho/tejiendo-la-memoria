@@ -1,0 +1,59 @@
+{
+  "audiovisual_files": {
+    "eb3a5e29-8eb3-4095-8204-df9367c9b5ad": {
+      "label": "AV File 1",
+      "file_url": "https://streaming.lib.utexas.edu/iiif/_definst_/iiif/mp4:DAMS/hrdi/hrdi_edf154fc-8d21-47dd-bb4a-75c4df274927/PROXY_MP4/hrdi_edf154fc-8d21-47dd-bb4a-75c4df274927.mp4/playlist.m3u8",
+      "duration": 443554,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Tejiendo la Memoria 04: Prudencia Ayala, la hija de la Centella",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Este episodio describe la importancia de Ayala para el desarrollo de los derechos de las mujeres en El Salvador, y como Ayala desafió la represión de mujeres en una era dominada por los hombres con su activismo. Este episodio usa entrevistas y comentario para explicar cómo las acciones de Ayala afectaron el sufragio y representación de las mujeres. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This episode describes the significance of Ayala to the development of women’s rights in El Salvador. Ayala’s activism challenged the repression of women during an era dominated by men. This episode uses interviews and commentary to explain how Ayala’s actions affected women’s suffrage and representation.",
+          "italic": true
+        },
+        {
+          "text": "\n\n"
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-07-19T04:30:55.510Z",
+  "created_by": "celeste-camacho",
+  "label": "T",
+  "updated_at": "2026-07-19T04:30:55.510Z",
+  "updated_by": "celeste-camacho",
+  "rights_statement": "h"
+}
