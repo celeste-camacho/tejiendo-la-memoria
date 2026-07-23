@@ -231,10 +231,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Autobiografía"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Nombre"
         },
         {
@@ -368,7 +364,7 @@
       ]
     },
     "created_at": "2026-07-12T23:12:29.625Z",
-    "updated_at": "2026-07-23T16:10:36.048Z",
+    "updated_at": "2026-07-23T16:10:40.738Z",
     "generate_pages_site": true
   },
   "annotations": {},
