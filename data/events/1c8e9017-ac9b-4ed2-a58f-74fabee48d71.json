@@ -4,7 +4,11 @@
       "label": "AV File 1",
       "file_url": "https://streaming.lib.utexas.edu/iiif/_definst_/iiif/mp4:DAMS/hrdi/hrdi_60d90566-f82d-406d-8c4e-7b5b00b285cc/PROXY_MP4/hrdi_60d90566-f82d-406d-8c4e-7b5b00b285cc.mp4/playlist.m3u8",
       "duration": 354111,
-      "file_type": "Video"
+      "file_type": "Audio",
+      "set_sort": [
+        "f1a84c38-0b68-49ed-8f60-45e5d3b2ed56",
+        "2a239d07-dd93-410b-81bb-190931d40036"
+      ]
     }
   },
   "auto_generate_web_page": true,
@@ -52,8 +56,12 @@
   ],
   "created_at": "2026-07-23T15:51:24.247Z",
   "created_by": "celeste-camacho",
-  "label": "T",
-  "updated_at": "2026-07-23T15:51:24.247Z",
+  "label": "Tejiendo la Memoria: Amparo Casamalhuapa, una Luz en la Oscuridad",
+  "updated_at": "2026-07-23T15:53:30.322Z",
   "updated_by": "celeste-camacho",
-  "rights_statement": "h"
+  "rights_statement": "h",
+  "av_file_order": [
+    "e29c166c-2da7-4703-b772-6118e46d58ad"
+  ],
+  "citation": "Museo de la Palabra y la Imagen (MUPI); LLILAS BENSON "
 }
