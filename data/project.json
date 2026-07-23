@@ -351,10 +351,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Maximiliano Hernández Martínez"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Valentía"
         },
         {
@@ -444,7 +440,7 @@
       ]
     },
     "created_at": "2026-07-12T23:12:29.625Z",
-    "updated_at": "2026-07-23T16:13:41.494Z",
+    "updated_at": "2026-07-23T16:13:47.933Z",
     "generate_pages_site": true
   },
   "annotations": {},
