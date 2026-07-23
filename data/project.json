@@ -351,10 +351,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Valentía"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Tomás Calderón"
         },
         {
@@ -440,7 +436,7 @@
       ]
     },
     "created_at": "2026-07-12T23:12:29.625Z",
-    "updated_at": "2026-07-23T16:13:47.933Z",
+    "updated_at": "2026-07-23T16:13:52.817Z",
     "generate_pages_site": true
   },
   "annotations": {},
