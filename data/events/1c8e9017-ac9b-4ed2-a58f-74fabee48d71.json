@@ -1,0 +1,59 @@
+{
+  "audiovisual_files": {
+    "e29c166c-2da7-4703-b772-6118e46d58ad": {
+      "label": "AV File 1",
+      "file_url": "https://streaming.lib.utexas.edu/iiif/_definst_/iiif/mp4:DAMS/hrdi/hrdi_60d90566-f82d-406d-8c4e-7b5b00b285cc/PROXY_MP4/hrdi_60d90566-f82d-406d-8c4e-7b5b00b285cc.mp4/playlist.m3u8",
+      "duration": 354111,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Tejiendo la Memoria 13: Amparo Casamalhuapa, una Luz en la Oscuridad",
+          "bold": true,
+          "textSize": "heading-two"
+        },
+        {
+          "text": "\nEn este episodio, los narradores usan selecciones de literatura y comentario para describir la vida de Amparo Casamalhuapa, una activista, poeta, y maestra. El episodio da una breve biografía de Casamalhuapa e incluye selecciones de sus publicaciones, \"Joven Sembrador\" y \"El Angosto Sendero.\" También se describe el tiempo que Casamalhualpa pasó en exilio y la situación de mujeres en América Central durante un tiempo de represión política. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In this episode, the narrators use literary excerpts and commentary to describe the life of Amparo Casamalhuapa, an activist, poet and teacher. The episode gives a brief biography of Casamalhupa and includes selections from Casamalhuapa's publications, \"Young Farmer\" and \"The Narrow Path\". The episode includes a description of Casamalhuapa's period in exile and the conditions of women throughout Central America during a period of political repression.\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Museo de la Palabra y la Imagen (Creator) and Preza, Tania (Host)\n\n\n"
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-07-23T15:51:24.247Z",
+  "created_by": "celeste-camacho",
+  "label": "T",
+  "updated_at": "2026-07-23T15:51:24.247Z",
+  "updated_by": "celeste-camacho",
+  "rights_statement": "h"
+}
