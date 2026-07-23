@@ -351,10 +351,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Infinito"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Periódicos"
         },
         {
@@ -432,7 +428,7 @@
       ]
     },
     "created_at": "2026-07-12T23:12:29.625Z",
-    "updated_at": "2026-07-23T16:13:59.453Z",
+    "updated_at": "2026-07-23T16:14:03.574Z",
     "generate_pages_site": true
   },
   "annotations": {},
