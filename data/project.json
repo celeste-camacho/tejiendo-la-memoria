@@ -231,10 +231,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Pensamiento social"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Vigencia"
         },
         {
@@ -416,7 +412,7 @@
       ]
     },
     "created_at": "2026-07-12T23:12:29.625Z",
-    "updated_at": "2026-07-23T16:07:37.497Z",
+    "updated_at": "2026-07-23T16:07:47.027Z",
     "generate_pages_site": true
   },
   "annotations": {},
