@@ -351,16 +351,12 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Historia oficial"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Nuevas generaciones"
         }
       ]
     },
     "created_at": "2026-07-12T23:12:29.625Z",
-    "updated_at": "2026-07-23T16:15:39.136Z",
+    "updated_at": "2026-07-23T16:15:42.841Z",
     "generate_pages_site": true
   },
   "annotations": {},
