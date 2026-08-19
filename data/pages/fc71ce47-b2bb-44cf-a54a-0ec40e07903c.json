@@ -4,11 +4,12 @@
   "created_by": "celeste-camacho",
   "title": "Prudencia Ayala, la hija de la Centella",
   "slug": "prudencia-ayala-la-hija-de-la-centella",
-  "updated_at": "2026-07-19T04:30:55.725Z",
+  "updated_at": "2026-08-19T19:12:09.341Z",
   "updated_by": "celeste-camacho",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "506d8dba-d30e-458a-828e-46b724245802"
-  }
+  },
+  "parent": "e783f332-8a07-4e5c-a6fc-6811fcbbdf9e"
 }
