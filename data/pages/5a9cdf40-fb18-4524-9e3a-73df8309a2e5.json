@@ -4,11 +4,12 @@
   "created_by": "celeste-camacho",
   "title": "Amparo Casamalhuapa, una Luz en la Oscuridad",
   "slug": "amparo-casamalhuapa-una-luz-en-la-oscuridad",
-  "updated_at": "2026-07-23T15:51:24.513Z",
+  "updated_at": "2026-08-19T19:12:18.419Z",
   "updated_by": "celeste-camacho",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "1c8e9017-ac9b-4ed2-a58f-74fabee48d71"
-  }
+  },
+  "parent": "e783f332-8a07-4e5c-a6fc-6811fcbbdf9e"
 }
