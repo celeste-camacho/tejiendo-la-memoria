@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "506d8dba-d30e-458a-828e-46b724245802",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-07-19T04:30:55.725Z",
   "created_by": "celeste-camacho",
   "title": "Prudencia Ayala, la hija de la Centella",
   "slug": "prudencia-ayala-la-hija-de-la-centella",
-  "updated_at": "2026-08-19T19:12:09.341Z",
+  "updated_at": "2026-08-27T21:24:30.249Z",
   "updated_by": "celeste-camacho",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "506d8dba-d30e-458a-828e-46b724245802"
   },
