@@ -35,11 +35,12 @@
   "created_by": "celeste-camacho",
   "title": "Lety, una Voz Femenina en Medio de la Guerra",
   "slug": "lety-una-voz-femenina-en-medio-de-la-guerra",
-  "updated_at": "2026-10-09T15:12:41.054Z",
+  "updated_at": "2026-10-09T15:12:58.096Z",
   "updated_by": "celeste-camacho",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "9c3ec3f3-a476-4ca2-bdcd-8ddfd57bff67"
-  }
+  },
+  "parent": "e783f332-8a07-4e5c-a6fc-6811fcbbdf9e"
 }
