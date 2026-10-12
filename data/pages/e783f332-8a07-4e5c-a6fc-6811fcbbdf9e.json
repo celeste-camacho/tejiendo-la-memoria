@@ -7,15 +7,137 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "image",
+      "url": "https://github.com/celeste-camacho/tejiendo-la-memoria/blob/main/guarda_tejiendo_la_memoria_v1.jpg?raw=true",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Digital collage by @celecamacha___ |Mujeres en la imagen: Amparo Casamalhuapa & Prudencia Ayala",
+          "textSize": "small"
+        }
+      ],
+      "align": "right"
+    },
+    {
+      "type": "paragraph",
+      "align": "right",
+      "children": [
+        {
+          "textSize": "small",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "“Tejiendo la Memoria” es un programa de radio producido por el Museo de la Palabra y la Imagen en San Salvador, El Salvador. Surge como parte de su misión de contribuir al desarrollo educativo y cultural del país mediante la conservación y difusión del patrimonio nacional de El Salvador, y crear espacios de reflexión sobre problemáticas sociales."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "Las emisiones de \""
+        },
+        {
+          "text": "Tejiendo la Memoria",
+          "bold": true
+        },
+        {
+          "text": "” presentan fragmentos de entrevistas, archivos de audio e información sobre diversos aspectos de la cultura, la historia y el arte salvadoreños, Entre los temas abordados en los programas se incluyen: testimonios personales de sobrevivientes y combatientes guerrilleros de la guerra civil salvadoreña; biografías de escritores, artistas y figuras políticas; cuestiones medioambientales, derechos y cultura de los pueblos indígenas. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "En el presente proyecto, realizado en el marco de la Digital Scholarship Research Fellowships LLILAS BENSON 2026, se seleccionaron 4 episodios: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "Amapro Casamahualpa, una luz en la oscuridad",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "bold": true,
+          "text": "Prudencia Ayala, la hija de la Centella"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "Lety, una voz femenina en medio de la guerra ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "Virginia Peña Mendoza, la comandante Chana. ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "De dichos episodios se ha realizado una transcripción y anotaciones reflexivas, además de poner en diálogo la presente selección con la Colección \"Voces de Mujeres\", presente también en el acervo documental de HDRI LLILAS Benson. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "Es posible acceder a las transcripciones y anotaciones de la colección Voces de Mujeres a través del siguiente vínculo: \n\n"
+        }
+      ]
     }
   ],
   "created_at": "2026-07-12T23:12:29.648Z",
   "created_by": "celeste-camacho",
-  "title": "Tejiendo la Memoria ",
-  "updated_at": "2026-08-27T21:23:42.408Z",
+  "title": "Tejiendo la Memoria _ Historias de Mujeres (MUPI)",
+  "updated_at": "2026-10-12T22:08:45.714Z",
   "updated_by": "celeste-camacho",
   "autogenerate": {
     "enabled": false,
     "type": "home"
-  }
+  },
+  "slug": "tejiendo-la-memoria-historias-de-mujeres-m"
 }
