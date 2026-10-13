@@ -1,5 +1,612 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Arpas y el Museo de la Palabra y la Imagen presentan Tejiendo la Memoria."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Actores y Referentes",
+          "tag": "Arpas"
+        },
+        {
+          "category": "Actores y Referentes",
+          "tag": "Museo de la Palabra y la Imagen"
+        },
+        {
+          "category": "Política y Resistencia",
+          "tag": "Memoria colectiva"
+        },
+        {
+          "category": "Política y Resistencia",
+          "tag": "Memoria histórica"
+        },
+        {
+          "category": "Estético-Sonoro",
+          "tag": "Archivo"
+        }
+      ],
+      "uuid": "936b81cc-323a-4bea-af78-e612d43c22ff"
+    },
+    {
+      "start_time": 12,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lety, una voz femenina en medio de la guerra. En nombre de Dios pues, y en nombre de este sufrido pueblo, cuyos lamentos suben hasta el cielo cada día más tumultuosos, les suplico, les ruego, les ordeno en nombre de Dios, cese la represión."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Guerra civil"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Voz femenina"
+        },
+        {
+          "category": "Política y Resistencia",
+          "tag": "Resistencia"
+        }
+      ],
+      "uuid": "099b649c-a037-42e9-b41d-1baa8cb658b5"
+    },
+    {
+      "start_time": 38,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En los años 70, El Salvador estaba viviendo una época de pobreza. Al mismo tiempo, crece la represión contra los movimientos sociales que soñaban con una sociedad justa y solidaria. Luego, vino la guerra. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Guerra civil"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Utopía"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Justicia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Solidaridad"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Movimientos sociales"
+        }
+      ],
+      "uuid": "54f1b58d-4361-4d7f-b484-9fa6467c5df4"
+    },
+    {
+      "start_time": 51,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "| Sonidos de ametralladoras y bombas |"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Guerra civil"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        }
+      ],
+      "uuid": "f73de4df-e700-4989-b98d-16ea813f4751"
+    },
+    {
+      "start_time": 56,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fue en ese contexto que surgieron dos radios insurgentes, la Faramundo Martí y Radio Venceremos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Farabundo Martí"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Comunicación"
+        },
+        {
+          "category": "Política y Resistencia",
+          "tag": "Resistencia"
+        }
+      ],
+      "uuid": "a107c305-e008-42e7-8c6d-fe4d7afecfaa"
+    },
+    {
+      "start_time": 59,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " | Sonidos de interferencia radiofónica |"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Farabundo Martí"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Comunicación"
+        }
+      ],
+      "uuid": "da9c9b08-93b0-4a0d-a3d1-d6f06e5cc5b8"
+    },
+    {
+      "start_time": 64,
+      "end_time": 84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El presidente López Portillo llama a la unidad latinoamericana ante una eventual violación de los principios de convivencia internacional en el continente. Viva la incorporación de la mujer en las luchas del pueblo, haciendo de la prisión una trinchera de la revolución. Unidos en la prisión, unidos en la revolución."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unidad latinoamericana"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "Centroamérica"
+        }
+      ],
+      "uuid": "c216bba5-65fd-412e-a426-b179f133794d"
+    },
+    {
+      "start_time": 84,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " | Sonidos: interferencia radiofónica, soldados marchando, bombas |"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Derecho internacional"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "Centroamérica"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Convivencia internacional"
+        }
+      ],
+      "uuid": "504ae7e0-3c83-4891-bb4e-d94e7dae13b3"
+    },
+    {
+      "start_time": 94,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Salvadoreño, incorpórate a las milicias populares."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Milicias populares"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Guerra civil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución"
+        }
+      ],
+      "uuid": "79dd1f1f-7ba1-464a-ae96-59569f488000"
+    },
+    {
+      "start_time": 99,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Una jovencita, en Henermilda Ventura Argueta, conocida en la guerra civil como Lety, entre hermosos bosques, ríos y montañas, se sumó a esa lucha en su natal pueblo San Fernando, al norte de Morazán. Es ahi donde comienzan a organizarse. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lety"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Guerra civil"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Clandestinidad"
+        }
+      ],
+      "uuid": "b6d96160-9210-436d-8cb4-6d06d8f9f27d"
+    },
+    {
+      "start_time": 130,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Había una formación, a hacer tramas, hablar sobre un tema que había ocurrido en la semana. En eso estábamos y a mí me gustaba gritar consignas. Había perdido ese temor y yo gritaba consignas y lo hacía con toda mi gana, con toda mi fuerza y en una de esas Santiago escuchó y dijo que quizás yo podría ayudar también en la locución en la radio Venceremos. Y yo no quería porque a mí me daba hasta como cierto temor hablar con gente que iba de la ciudad. Yo sentía que ellos como tenían un nivel intelectual diferente al mío, entonces yo les tenía como pena. Y luego este compañero Hernán Vera, maravilla, se dio a la tarea de ayudarme. Creo que pasamos como un mes o quizás menos de un mes, pero era todos los días, todos los días. Me dice, maravilla, creo que ya estás preparada. Hoy te va a tocar leer esto en la radio. Y ahí no, maravilla, le decía yo, yo no puedo. Tengo miedo, me tiemblan los pies, me pongo helado, pero fui venciendo ese temor, ese miedo. Pero siempre estaba ahí y habían compañeros con los que me tocó trabajar que nunca aceptaron que yo, una mujer campesina que no tenía el nivel cultural de otros y que yo fuera la responsable de ellos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Movimiento popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pedagogía"
+        }
+      ],
+      "uuid": "df05ba6b-2dea-42ef-b186-3e0de39b930e"
+    },
+    {
+      "start_time": 220,
+      "end_time": 240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Las mujeres en la guerra salvadoreña tuvieron un papel vital con su fuerza, su amor y valentía. Lety, después de haber vencido el miedo y dado sus nuevos pasos aprendiendo a hacer periodismo de guerra, desarrolló su trabajo con pasión y alegría."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Política y Resistencia",
+          "tag": "Mujeres"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Guerra civil"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Valentía"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Amor"
+        }
+      ],
+      "uuid": "b8112eb9-00c4-48ec-9b7f-e580da88b3f4"
+    },
+    {
+      "start_time": 240,
+      "end_time": 296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La experiencia de nosotros tanto en el combate no fue tanto, sino de estar en otra trincha, denunciando, hablando. Uno siempre decía, bueno, viva, no me van a agarrar. Esta información por mí no la van a tener. Yo siento que aprendí un montón con los años. Yo tenía mi espacio en la Radio Venceremos. Por ejemplo, yo tuve también a cargo un tiempo ese espacio que fue el de los Trabajadores al Poder, se llamaba, que era donde nosotros recogíamos toda la información de las organizaciones populares. Controlábamos a través de las medidas de comunicación toda acción que hacía el movimiento popular. Estaba plasmado en ese espacio que nosotros le llamábamos Trabajadores al Poder. Y le poníamos también mucha energía para mantener siempre en actividad al movimiento social y para que también se sintiera respaldado por el ejército revolucionario."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos"
+        },
+        {
+          "category": "Política y Resistencia",
+          "tag": "Denuncia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Guerra civil"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Comunicación Comunitaria"
+        }
+      ],
+      "uuid": "4c1fdf55-bd4f-4e48-bcc6-b2845ec376fd"
+    },
+    {
+      "start_time": 296,
+      "end_time": 312,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Después de los Acuerdos de Paz, en 1992, Lety no volvió a vivir en su pueblo San Fernando y partió a la capital San Salvador, trabajando en un sinfín de oficios."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Acuerdos de Paz"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "1992"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Posguerra"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desplazamiento"
+        }
+      ],
+      "uuid": "99319d95-b90d-4ec9-b559-536a0a8494a1"
+    },
+    {
+      "start_time": 312,
+      "end_time": 374,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por un lado, uno se sentía alegría, pero por otro lado, creo que no. Uno porque sí el hecho de que se callaran las armas y a nosotros después de 11 años, ya no queríamos seguir más en guerra. Pero por otro lado, estaba la preocupación también, ¿cómo vamos a sobrevivir? Y yo creo que esa fue una de las cosas que más nos impactó cuando regresamos otra vez a la vida civil, y sin tener qué, pues, no teníamos una profesión, no teníamos dónde vivir porque mi familia no estaba en el país. Y la otra parte es la parte económica, ¿verdad? Cómo incorporarse cuando uno venía del cerro, digamos, sin mucha experiencia de qué hacer. Por ejemplo, yo en el caso tenía la experiencia en la radio. Si hubiera tenido el apoyo de la organización, yo hubiera podido seguir estudiando periodismo. Pero a mí me mandaron a decir a voz en la radio, ya no te necesitamos, necesitamos gente profesional."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Posguerra"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Alegría"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tristeza"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Acuerdos de Paz"
+        }
+      ],
+      "uuid": "4bf00383-06ea-4bc4-9caa-18c7df236a14"
+    },
+    {
+      "start_time": 374,
+      "end_time": 426,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y eso fue bien duro para uno. Y bueno, esas son cosas que lo marcan a uno, pues. Tal vez en aquel principio me costó asimilarlo. Y bueno, yo seguí trabajando con el partido, pero yo ya tenía mi niño. Y la cosa es que en el caso mío, bueno, querían que yo siguiera trabajando con el FMLN, pero no había tampoco un pago, pues. Y yo tenía mi niño, tenía que comer yo, tenía que comer, darle de comer a mi hijo. Y llegó un momento en que yo dije, bueno, tengo que decidir o mi hijo o el partido. Este, tengo que decidir una de las dos. Y dije yo no, yo considero que ahorita yo di mi aporte, ahorita yo me dedico a mi hijo. Porque no tenía el apoyo tampoco del papá."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dolor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Traición"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Posguerra"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Exclusión"
+        }
+      ],
+      "uuid": "9c0446d0-ddd2-4918-a77b-ef536f14ab88"
+    },
+    {
+      "start_time": 426,
+      "end_time": 432,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay, qué cosa fuera, qué cosa fuera la masa sin cantera | música, cancion|"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Estético-Sonoro",
+          "tag": "Música"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Canción popular"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cultura"
+        },
+        {
+          "category": "Política y Resistencia",
+          "tag": "Memoria"
+        }
+      ],
+      "uuid": "cfdb75f9-ca90-477f-b5a1-64d4523f26c5"
+    },
+    {
+      "start_time": 432,
+      "end_time": 440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Arpas y el Museo de la Palabra y la Imagen presentaron Tejiendo la memoria."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Actores y Referentes",
+          "tag": "Arpas"
+        },
+        {
+          "category": "Actores y Referentes",
+          "tag": "Museo de la Palabra y la Imagen"
+        },
+        {
+          "category": "Política y Resistencia",
+          "tag": "Memoria colectiva"
+        },
+        {
+          "category": "Estético-Sonoro",
+          "tag": "Archivo"
+        }
+      ],
+      "uuid": "0d55f119-c3b0-4df9-ae13-42aab85f0034"
+    }
+  ],
   "set": "Transcripción",
   "event_id": "9c3ec3f3-a476-4ca2-bdcd-8ddfd57bff67",
   "source_id": "87349e5b-3ad1-4f17-917f-9203428aa7e2"
