@@ -1,5 +1,612 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La apertura institucional sitúa la escucha en un acto performativo que inaugura un espacio de narración colectiva. Taylor (2015) conceptualiza el archivo como un acto vivo que performa memoria. Este acto de apertura funciona como invitación ritual a la escucha comunitaria de una historia que viene del silencio de la guerra."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Actores y Referentes",
+          "tag": "Arpas"
+        },
+        {
+          "category": "Actores y Referentes",
+          "tag": "Museo de la Palabra y la Imagen"
+        },
+        {
+          "category": "Política y Resistencia",
+          "tag": "Memoria colectiva"
+        },
+        {
+          "category": "Política y Resistencia",
+          "tag": "Memoria histórica"
+        },
+        {
+          "category": "Estético-Sonoro",
+          "tag": "Archivo"
+        }
+      ],
+      "uuid": "c934db81-e340-4bb4-ae8a-a2d5d381de1d"
+    },
+    {
+      "start_time": 12,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El fragmento introductorio de \"Lety, una voz femenina en medio de la guerra\" condensa la tensión entre género y conflicto armado a través de un acto de habla performativo que legitima su voz desde una autoridad trascendente y comunitaria. Apoyado en la escucha como forma de conocimiento (Voegelin y Barney, 2018), el relato conecta el sufrimiento terrenal con una trascendencia cósmica donde el cielo actúa como testigo y agente no-humano (Haraway y Stengers). Asimismo, la escalada retórica —\"suplico, ruego, ordeno\"— revela la urgencia desesperada de una voz que enfrenta la pedagogía de la crueldad de la represión (Segato, 2018) mediante la fuerza del nombre divino, exponiendo en su paradoja la profunda absurdidad de la violencia estatal. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Guerra civil"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Voz femenina"
+        },
+        {
+          "category": "Política y Resistencia",
+          "tag": "Resistencia"
+        }
+      ],
+      "uuid": "b5333222-0200-405f-847e-fa8e9d28a789"
+    },
+    {
+      "start_time": 38,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La contextualización de la pobreza y la represión en el El Salvador de los años 70 sitúa el origen del conflicto en las condiciones estructurales impuestas por la dictadura. Dentro de este marco, la frase lapidaria \"Luego, vino la guerra\" opera como un quiebre narrativo cuya brevedad contrasta con la magnitud del desastre, logrando nombrar aquello que resulta inenarrable en una sola línea. Así, en consonancia con la perspectiva de Taylor (2015) sobre el archivo como registro de presencias y ausencias, la guerra se codifica en el relato como la destrucción y ausencia absoluta de todo lo que los movimientos sociales intentaron construir. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Guerra civil"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Utopía"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Justicia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Solidaridad"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Movimientos sociales"
+        }
+      ],
+      "uuid": "7d9984b4-daa5-4038-8588-63c4f9e2e2a6"
+    },
+    {
+      "start_time": 51,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La utilización de estos recursos como sonidos de ametralladoras y bombas, sirven como llamados de atención  y ponen aún más en contexto a quienes escuchan. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Guerra civil"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        }
+      ],
+      "uuid": "387462d0-7bd1-45a4-aae3-1bf006492750"
+    },
+    {
+      "start_time": 56,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La emergencia de las radios insurgentes Faramundo Martí y Radio Venceremos introduce la tecnología de la comunicación como una herramienta orgánica de resistencia. Más allá de operar como meros dispositivos técnicos, estas emisoras se constituyen, en los términos de Costa (2021) sobre la tensión entre tecnología y transformación social, en potentes instrumentos de contra-información creados para desafiar el monopolio mediático de la dictadura salvadoreña. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Farabundo Martí"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Comunicación"
+        },
+        {
+          "category": "Política y Resistencia",
+          "tag": "Resistencia"
+        }
+      ],
+      "uuid": "d1ba8bba-ea74-4d24-8cc1-9a72f0264ba8"
+    },
+    {
+      "start_time": 59,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La inclusión de sonidos de interferencia radiofónica funciona como un recurso estético y político que sumerge sensorialmente al oyente en la materialidad de la radiodifusión clandestina. Este ruido técnico no es un mero adorno, es mas bien un índice de la precariedad, la persecución y el peligro físico que implicaba transmitir en el contexto de la guerra civil. Al interrumpir la nitidez del audio, la interferencia simboliza la disputa por el espacio radioeléctrico y la resistencia frente al silenciamiento estatal, transformando el ruido en una marca de autenticidad histórica que legitima el archivo sonoro como un territorio de lucha. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Farabundo Martí"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Comunicación"
+        }
+      ],
+      "uuid": "c03c6878-211c-45d3-8abe-2081429fa34f"
+    },
+    {
+      "start_time": 64,
+      "end_time": 84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La referencia al presidente mexicano López Portillo inscribe la guerra salvadoreña en una red regional de actores que co-producen la historia, posicionando a la \"unidad latinoamericana\" como una contra-narrativa decolonial (Walsh, 2013) que apela al derecho internacional frente a la intervención extranjera y la pasividad global. En este marco, la proclama revolucionaria sitúa el género como un eje estratégico fundamental al reivindicar la incorporación de la mujer en la lucha colectiva (hooks, 2000), al tiempo que invierte la lógica patriarcal del encierro institucionalizado (Segato, 2018). Al re-significar performativamente la \"prisión como trinchera\", el relato transforma el espacio punitivo de la cárcel en una posición activa de combate y resistencia política. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unidad latinoamericana"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "Centroamérica"
+        }
+      ],
+      "uuid": "6b6c9b0f-223e-4f5d-b324-cee76b6d687d"
+    },
+    {
+      "start_time": 84,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La utilización de estos recursos como sonidos de ametralladoras y bombas, sirven como llamados de atención  y ponen más en contexto a quienes escuchan. Recurso que apela a simular momentos reales a través de los efectos sonoros, los ruidos, las intereferencias, las referencias sonoras. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Derecho internacional"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "Centroamérica"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Convivencia internacional"
+        }
+      ],
+      "uuid": "ebfaee12-1e63-43e6-9d72-4c7ab4ddc071"
+    },
+    {
+      "start_time": 94,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La interpelación directa y enérgica del llamado \"Salvadoreño, incorpórate\" opera como un acto de habla performativo que busca propiciar de manera inmediata la acción transformadora. Este mandato condensa el proceso de concientización teorizado por Freire (1992), sirviendo como el punto exacto de quiebre donde el sujeto oprimido, al comprender las estructuras de dominación que lo condicionan, es convocado a dar el salto cualitativo desde la asimilación de su realidad hacia la movilización y la resistencia armada concreta a través de las milicias populares. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Milicias populares"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Guerra civil"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución"
+        }
+      ],
+      "uuid": "b50de9d8-8a1d-400e-830e-2275c4d61477"
+    },
+    {
+      "start_time": 99,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Este enfoque cuestiona qué significaba para una mujer \"joven\" y rural romper con el rol tradicional e involucrarse en la guerra. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lety"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Guerra civil"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Clandestinidad"
+        }
+      ],
+      "uuid": "94019dca-39d7-46d3-9568-cfbe2c57cef6"
+    },
+    {
+      "start_time": 130,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El testimonio de Lety relata su experiencia como mujer campesina integrándose a la locución en la Radio Venceremos, un proceso atravesado por la superación del miedo, la guía de compañeros y las tensiones de clase y género dentro de la militancia. El testimonio expone cómo Lety desaprende las jerarquías culturales internalizadas frente al saber urbano, enfrentando tanto sus propios temores somáticos como la resistencia machista de algunos compañeros que cuestionaban su rol de liderazgo. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Movimiento popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pedagogía"
+        }
+      ],
+      "uuid": "ae41db0c-2a0e-43ec-a4c0-d7d894c3f007"
+    },
+    {
+      "start_time": 220,
+      "end_time": 240,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La transición hacia la voz del programa opera como un reconocimiento colectivo que trasciende la biografía individual de Lety, resignificando la \"fuerza, amor y valentía\" de las mujeres como virtudes plenamente humanas desplegadas en el contexto bélico (hooks, 2000). Al enmarcar su labor como un \"periodismo de guerra\", el relato sitúa a la protagonista en una práctica profesional y técnica adaptada a condiciones extremas, transformando la comunicación en una herramienta de cambio social (Costa, 2021). Resistencia política radical que le niega a la guerra el derecho a confiscar la capacidad de gozar y de imaginar un futuro distinto. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Política y Resistencia",
+          "tag": "Mujeres"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Guerra civil"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Valentía"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Amor"
+        }
+      ],
+      "uuid": "18910a94-1c70-44be-9448-40772f310a47"
+    },
+    {
+      "start_time": 240,
+      "end_time": 296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Al distinguir el combate armado de la labor en \"otra trinchera\", Lety redefine la participación en la guerra al posicionar la denuncia y la palabra como armas tan poderosas como el fusil (Walsh, 2013). La consigna de proteger la información a toda costa evidencia la radio clandestina como un dispositivo estratégico de poder y resguardo de fuentes (Costa, 2021), a la vez que el espacio radial opera como una escuela de educación popular y concientización política (Freire, 1992). A través del programa Trabajadores al Poder, la radio funcionaba como un archivo vivo que documentaba, concentraba y sistematizaba en tiempo real la memoria de las organizaciones populares (Taylor, 2015); un nodo estratégico que rebasaba la mera transmisión técnica para inyectar una energía afectiva y militante (hooks, 2000) orientada a coordinar la resistencia y grabar en la escucha comunitaria la promesa de un horizonte revolucionario (Voegelin y Barney, 2018). "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Radio Venceremos"
+        },
+        {
+          "category": "Política y Resistencia",
+          "tag": "Denuncia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Guerra civil"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Comunicación Comunitaria"
+        }
+      ],
+      "uuid": "08582e56-ad83-4e06-b1e4-51587634466f"
+    },
+    {
+      "start_time": 296,
+      "end_time": 312,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Los Acuerdos de Paz de 1992 marcan el fin del conflicto bélico en El Salvador pero inauguran una nueva forma de exclusión y precarización para los excombatientes, demostrando que la igualdad formal de los tratados no garantiza la justicia económica sustantiva (hooks, 2000). El desplazamiento de Lety hacia la capital, San Salvador, y su transición hacia un \"sinfín de oficios\" informales evidencian la persistencia de la pobreza estructural más allá de la legalidad alcanzada. Asimismo, la imposibilidad de retornar a su pueblo natal, San Fernando, devela un profundo desgarro identitario provocado por la ruptura irreversible de los lazos comunitarios, lo que refleja cómo las lógicas coloniales del poder se reconfiguran y perpetúan en los procesos de posguerra (Walsh, 2013). "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Acuerdos de Paz"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "1992"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Posguerra"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Desplazamiento"
+        }
+      ],
+      "uuid": "4243b1a7-a574-4f9e-82ba-02456ebf09d0"
+    },
+    {
+      "start_time": 312,
+      "end_time": 374,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " La ambivalencia emocional de Lety —\"alegría pero no\"— revela el realismo crudo del fin de la guerra, donde el cese de las armas se celebra con agotamiento, pero también con una profunda incertidumbre sobre la supervivencia material (Freire, 1992; Taylor, 2015). El tránsito traumático a la vida civil expone una precariedad estructural y la destrucción del tejido social mediante la carencia absoluta de vivienda, profesión y redes familiares debido al exilio (hooks, 2000). Al reincorporarse desprovista de capital social desde el \"cerro\", una marca de origen que la sociedad de posguerra utiliza para marginarla y excluirla, Lety experimenta la traición de la propia organización revolucionaria a la que sirvió. Esta falta de apoyo institucional y de género culmina en el rechazo explícito de su acumulada experiencia en la Radio Venceremos bajo la consigna burocrática \"ya no te necesitamos, necesitamos gente profesional\"; una distinción de saberes que invisibiliza su trayectoria técnica y política (Costa, 2021; Segato, 2018), reproduciendo las lógicas patriarcales y clasistas de exclusión que abandonan a las mujeres combatientes una vez alcanzada la paz formal (Walsh, 2013).  ."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Posguerra"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Alegría"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tristeza"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Acuerdos de Paz"
+        }
+      ],
+      "uuid": "5fa00841-1415-4292-b5f8-ed5dae89adfb"
+    },
+    {
+      "start_time": 374,
+      "end_time": 426,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La profunda marca traumática de esta experiencia (\"fue bien duro para uno\") condensa el dolor de la traición y el descarte institucional a través de una elocuente brevedad que resignifica el cuerpo de Lety como un archivo vivo de cicatrices imborrables (Voegelin y Barney, 2018; Taylor, 2015). El doloroso proceso de asimilar que la organización no correspondía a sus ideales (Freire, 1992) se agudiza cuando el FMLN termina replicando las lógicas patriarcales de extracción de valor y desprotección (Segato, 2018). Ante la urgencia material de la supervivencia y la total ausencia de apoyo del padre —una problemática estructural de la maternidad soltera que impone una doble carga sobre las excombatientes—, Lety se ve forzada a enfrentar la violenta disyuntiva de elegir entre \"su hijo o el partido\". Su resolución final (\"di mi aporte, ahorita yo me dedico a mi hijo\") lejos de ser una claudicación, constituye un acto político de resistencia radical que prioriza la vida y la crianza colectiva sobre la exigencia ideológica, reconfigurando el sentido de la lucha desde la práctica cotidiana del cuidado (hooks, 2000). "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dolor"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Traición"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Posguerra"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Exclusión"
+        }
+      ],
+      "uuid": "63d6f13a-af47-4919-ab14-79a209f60fd6"
+    },
+    {
+      "start_time": 426,
+      "end_time": 432,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La canción popular de Silvio Rodriguez interpretada por Mercedes Sosa—\"la masa sin cantera\"— funciona como cierre que recupera la dimensión cultural de la resistencia. Taylor (2015) conceptualiza el repertorio como aquello que se performa y se transmite por vía corporal, y aquí la canción es un repertorio que conecta la historia de Lety con una tradición cultural más amplia. La \"maza sin cantera\" es metáfora de un pueblo sin voz que la guerra intentó silenciar pero que el archivo sonoro preserva. Lo mismo que sus historias, y las historias hacia adentro del movimiento también. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Estético-Sonoro",
+          "tag": "Música"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Canción popular"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "El Salvador"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cultura"
+        },
+        {
+          "category": "Política y Resistencia",
+          "tag": "Memoria"
+        }
+      ],
+      "uuid": "1a52ce00-5c2e-4bdf-be50-882b48ff5485"
+    },
+    {
+      "start_time": 432,
+      "end_time": 440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El cierre institucional Arpas, MUPI. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Actores y Referentes",
+          "tag": "Arpas"
+        },
+        {
+          "category": "Actores y Referentes",
+          "tag": "Museo de la Palabra y la Imagen"
+        },
+        {
+          "category": "Política y Resistencia",
+          "tag": "Memoria colectiva"
+        },
+        {
+          "category": "Estético-Sonoro",
+          "tag": "Archivo"
+        }
+      ],
+      "uuid": "78b44b47-8e74-4fff-b260-bd5552c31c0b"
+    }
+  ],
   "event_id": "9c3ec3f3-a476-4ca2-bdcd-8ddfd57bff67",
   "set": "Anotaciones",
   "source_id": "87349e5b-3ad1-4f17-917f-9203428aa7e2"
